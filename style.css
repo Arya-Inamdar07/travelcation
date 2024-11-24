@@ -194,12 +194,11 @@ h1{
 	transition:1s ;
 }
 .gallery-box img:hover{
-	 scale:(1.1);
+	 transform: scale(1.05);
 }
 .gallery-box h4{
 	display:block;
 	color:#000;
-	text-shadow:-2px 2px 2px #000;
 	text-align:center;
 	font-weight:600;
 	font-size:20px;
@@ -308,4 +307,16 @@ h1{
 {
 	text-align:center;
 }
-	
+.link-images li{
+	list-style: none;
+	margin: 10px 0;
+	font-size: 1rem;
+}
+.link-images a{
+	list-style-type: none;
+	color: white;
+	text-decoration: none;
+}
+.link-images a:hover{
+	color: white;
+}
