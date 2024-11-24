@@ -32,10 +32,6 @@ ul li a:hover{
 	background-color:#fff;
 	color:#121211;
 }
-ul li.active a{
-	background-color:#fff;
-	color:#121211;
-}
 .logo img{
 	float:left;
 	width:120px;
